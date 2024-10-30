@@ -265,7 +265,7 @@ export default function PollinationsCheatsheet() {
             fill="currentcolor"
           ></path>
         </svg>
-        <a href="/https://github.com/suraj-xd/uncensored-image-text-generation" target="_blank" >View on Github</a>
+        <a href="https://github.com/suraj-xd/uncensored-image-text-generation" target="_blank" >View on Github</a>
       </button>
 
     </div>
